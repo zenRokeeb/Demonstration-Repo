@@ -1,12 +1,10 @@
-<!DOCTYPE html>
-<html lang="en">
+<!DOCTYPE html> '
+<html>
   <head>
-    <meta charset="UTF-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>My First Webpage</title>
+    <title>The Basic Language of the web: HML</title>
   </head>
+
   <body>
-    <h1>Hello, world</h1>
-    <p>My Name Is Rokeeb, And This Is My First Webpage</p>
+    <h1>The Basic Language of the web: HTML</h1>
   </body>
 </html>
